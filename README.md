@@ -35,9 +35,3 @@ Made with ❤️ by former prepa students, for current ones.
 ![Untitled design](https://github.com/user-attachments/assets/c0a0fecb-0343-4186-89ad-6d1860d5d0e0)
 
 
-
-=======
->>>>>>> 7c6304d9c3f230f496f1b6a048be8e112dabe800
-=======
-
->>>>>>> 17ab78ef991917b8d8b346fa487b9230ae2c9a7f
