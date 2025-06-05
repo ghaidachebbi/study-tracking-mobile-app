@@ -33,5 +33,8 @@ All timers, to-dos, and trackers are filtered by your actual subjects for smarte
 Made with ❤️ by former prepa students, for current ones.
 
 ![Untitled design](https://github.com/user-attachments/assets/c0a0fecb-0343-4186-89ad-6d1860d5d0e0)
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 7c6304d9c3f230f496f1b6a048be8e112dabe800
